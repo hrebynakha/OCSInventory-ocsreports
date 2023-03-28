@@ -1,0 +1,13 @@
+{
+"displayName" : "browserhistory",
+"author" : ["romius"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1",
+"licence" : "byromius",
+"description" : 
+    {
+        "fr" : "Un exemple de plugin",
+        "en" : "get browser history"
+    }
+}

@@ -1,0 +1,13 @@
+{
+"displayName" : "wsusinfo",
+"author" : ["romius"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1",
+"licence" : "byromius",
+"description" : 
+    {
+        "fr" : "Un exemple de plugin",
+        "en" : "get wsus info"
+    }
+}
